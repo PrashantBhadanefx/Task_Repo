@@ -1,1 +1,2 @@
 # Credit Card Customer Segmentation Using Clustering
+# Objective - this dataset is use to perform customer segmentation on a credit card dataset by utilizing clustering techniques. The aim is to group customers into distinct clusters based on their spending behaviors, usage patterns, and other relevant features, such that customers within each cluster share similar characteristics. These insights can be leveraged by marketing teams for targeted campaigns, risk management, and personalized offers.
